@@ -28,5 +28,5 @@ Não possui finalidade comercial nem integra um sistema real de vendas.
 
 1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/livraria-react.git
+git clone https://github.com/LucasAnchietaAmancio/-Bookstore.git
 cd livraria-react
